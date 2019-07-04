@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SubmThree</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Samudra Gawang</string>
+    <string name="nav_header_subtitle">ganar.gatul@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Language Settings</string>
+
+    <string name="menu_movie">Movie</string>
+    <string name="menu_tv">TV Show</string>
+
+    <string name="api_movie">https://api.themoviedb.org/3/discover/movie?api_key=d8c375524b59e7a31fdedc44597ce2d4&amp;language=en-US</string>
+    <string name="api_tv">https://api.themoviedb.org/3/discover/tv?api_key=d8c375524b59e7a31fdedc44597ce2d4&amp;language=en-US</string>
+    <string name="content_desc">Poster Movie</string>
+    <string name="hello_world">Hello World</string>
+    <string name="faresa">faresa</string>
+    <string name="overview">OverView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

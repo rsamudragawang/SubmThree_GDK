@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_movie">Film</string>
+    <string name="menu_tv">Siaran Tv</string>
+    <string name="action_settings">Pengaturan Bahasa</string>
+
+    <string name="hello_world">Halo Dunia</string>
+    <string name="content_desc">Poster FIlm</string>
+    <string name="faresa">:p</string>
+</resources>
